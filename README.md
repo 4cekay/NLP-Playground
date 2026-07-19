@@ -1,6 +1,7 @@
-# LLM-Playground
+# IAT360: [B101-2] NLP Final Project
 
-testing testing 123
-cinnamon buns cinnamon buns
-
-kc testing stuff bc she has ideas and doesn't know if they're possible
+Brainstorming testing grounds for dual-model comparison concept (tentative)
+- Text-Classification Model
+- Text-Generation Model
+- Comparing cls results (self-written vs. generated)
+- Demo basic user flow with simple gradio interface connecting user input and model output for side-by-side metric comparison 
